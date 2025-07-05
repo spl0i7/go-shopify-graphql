@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/r0busta/go-shopify-graphql-model/v4/graph/model"
+	"github.com/spl0i7/go-shopify-graphql-model/v4/graph/model"
 )
 
 //go:generate mockgen -destination=./mock/fulfillment_service.go -package=mock . FulfillmentService

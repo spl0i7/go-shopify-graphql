@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/r0busta/go-shopify-graphql-model/v4/graph/model"
-	"github.com/r0busta/go-shopify-graphql/v9"
+	"github.com/spl0i7/go-shopify-graphql-model/v4/graph/model"
+	"github.com/spl0i7/go-shopify-graphql/v9"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -1,13 +1,13 @@
-module github.com/r0busta/go-shopify-graphql/v9
+module github.com/spl0i7/go-shopify-graphql/v9
 
 go 1.23
 
 require (
 	github.com/golang/mock v1.6.0
 	github.com/json-iterator/go v1.1.12
-	github.com/r0busta/go-shopify-graphql-model/v4 v4.1.0
 	github.com/r0busta/graphql v1.2.0
 	github.com/sirupsen/logrus v1.9.3
+	github.com/spl0i7/go-shopify-graphql-model/v4 v4.2.0
 	github.com/stretchr/testify v1.10.0
 	gopkg.in/guregu/null.v4 v4.0.0
 )

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/r0busta/go-shopify-graphql-model/v4/graph/model"
 	"github.com/r0busta/graphql"
+	"github.com/spl0i7/go-shopify-graphql-model/v4/graph/model"
 )
 
 //go:generate mockgen -destination=./mock/order_service.go -package=mock . OrderService

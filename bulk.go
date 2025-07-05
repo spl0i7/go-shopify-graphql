@@ -14,10 +14,10 @@ import (
 	"time"
 
 	jsoniter "github.com/json-iterator/go"
-	"github.com/r0busta/go-shopify-graphql-model/v4/graph/model"
-	"github.com/r0busta/go-shopify-graphql/v9/rand"
-	"github.com/r0busta/go-shopify-graphql/v9/utils"
 	log "github.com/sirupsen/logrus"
+	"github.com/spl0i7/go-shopify-graphql-model/v4/graph/model"
+	"github.com/spl0i7/go-shopify-graphql/v9/rand"
+	"github.com/spl0i7/go-shopify-graphql/v9/utils"
 	"gopkg.in/guregu/null.v4"
 )
 
