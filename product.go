@@ -109,6 +109,7 @@ const productBaseQuery = `
 	totalInventory
 	onlineStoreUrl	
 	descriptionHtml
+	status
 	seo{
 		description
 		title
